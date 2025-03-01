@@ -34,7 +34,7 @@ Yessen and Company | October 2022 – November 2024
 
 ## Education
 **Bachelor of Finance**  
-Aktobe Regional State University named after K. Zhubanov | [Month, Year] – [Month, Year]
+Aktobe Regional State University named after K. Zhubanov | 2008 – 2012
 
 ## Certifications and Additional Education
 - Data Analyst, Yandex Practicum
