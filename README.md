@@ -20,7 +20,7 @@ Experienced BI Analyst with a solid background in finance and entrepreneurship. 
 
 ## Experience
 **Entrepreneur**  
-Self-Employed | 2012 – 2022  
+Business Owner | 2012 – 2022  
 - Managed and operated a successful business for 10 years
 - Developed strong leadership and financial management skills
 
