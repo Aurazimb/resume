@@ -8,7 +8,7 @@
 **Email:** A.urazimbetov@outlook.com  
 
 ## Professional Summary
-Experienced BI Analyst with a solid background in finance and entrepreneurship. Adept at data analysis, business intelligence, and providing actionable insights to drive business growth. Strong analytical skills and a commitment to continuous learning and professional development. Highly disciplined with a keen interest in data analytics.
+Experienced BI Analyst with a solid background in finance and entrepreneurship. Adept at data analysis, business intelligence, and providing actionable insights to drive business growth. Strong analytical skills and a commitment to continuous learning and professional development. Highly disciplined with a keen interest in BI analytics.
 
 ## Skills
 - Power BI
