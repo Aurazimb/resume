@@ -19,16 +19,16 @@ Experienced BI Analyst with a solid background in finance and entrepreneurship. 
 - Git
 
 ## Experience
-**Entrepreneur**  
-Business Owner | 2012 – 2022  
-- Managed and operated a successful business for 10 years
-- Developed strong leadership and financial management skills
-
 **BI Analyst**  
 Yessen and Company | October 2022 – November 2024  
 - Analyzed business data to provide insights and support decision-making
 - Developed and maintained BI reports and dashboards
 - Collaborated with cross-functional teams to identify business needs and opportunities
+
+**Entrepreneur**  
+Business Owner | 2012 – 2022  
+- Managed and operated a successful business for 10 years
+- Developed strong leadership and financial management skills
 
 ## Projects and Achievements
 - **Inventory Optimization:** Utilized BI analytics to optimize inventory levels while maintaining sales performance, resulting in a 10% reduction in costs.
@@ -48,7 +48,3 @@ Aktobe Regional State University named after K. Zhubanov | 2008 - 2012
 - Excellent negotiation skills
 - Strong leadership and personnel management abilities
 - Effective team collaboration and communication skills
-
-## Professional Goals
-Aspire to advance in the field of data science by leveraging my analytical skills and technical expertise. Eager to explore and implement cutting-edge data science techniques and machine learning algorithms to solve complex business problems and drive innovation.
-
